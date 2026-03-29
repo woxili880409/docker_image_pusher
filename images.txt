@@ -1,3 +1,4 @@
+#superset
 apachesuperset.docker.scarf.sh/apache/superset:latest-dev
 #gcr.io/zenika-hub/alpine-chrome:124
 #支持私库
