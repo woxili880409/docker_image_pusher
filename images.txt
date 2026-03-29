@@ -1,4 +1,5 @@
-gcr.io/zenika-hub/alpine-chrome:124
+apachesuperset.docker.scarf.sh/apache/superset:latest-dev
+#gcr.io/zenika-hub/alpine-chrome:124
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
